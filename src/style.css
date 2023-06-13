@@ -1,0 +1,33 @@
+.resume-builder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+    /* border: 2px solid #606C5D; */
+    /* width:80%; */
+  }
+  
+  h2 {
+    margin-bottom: 1.5rem;
+    color:red;
+  }
+  .container{
+    border:2px solid #606C5D;
+    margin-bottom:1rem;
+
+  }
+  #personal{
+    text-align: center;
+    color:#2E8A99;
+  }
+  .mass{
+    border:2px solid #B31312;
+    width:40%;
+    justify-content: center;
+    position: relative;
+    left:300px;
+  }
+  #success{
+   text-align: center;
+  }
