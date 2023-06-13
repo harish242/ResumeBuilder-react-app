@@ -5,7 +5,7 @@ import './style.css'
 const App = () => {
   return (
     <div>
-      <h1>Resume Builder App</h1>
+      <h1 className='main1'>Resume Builder App</h1>
       <ResumeBuilder />
     </div>
   );

@@ -10,7 +10,7 @@
   
   h2 {
     margin-bottom: 1.5rem;
-    color:red;
+    color:#19A7CE;
   }
   .container{
     border:2px solid #606C5D;
@@ -22,12 +22,16 @@
     color:#2E8A99;
   }
   .mass{
-    border:2px solid #B31312;
+    border:2px solid #212A3E;
     width:40%;
     justify-content: center;
     position: relative;
-    left:300px;
+    left:320px;
   }
   #success{
    text-align: center;
+  }
+  .main1{
+    text-align: center;
+    color:#212A3E;
   }
